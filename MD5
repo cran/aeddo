@@ -1,7 +1,7 @@
-9b7bb0b197e627e9f18e6bb0388478bc *DESCRIPTION
+a676e573287ae2b902bf00a258742298 *DESCRIPTION
 ceeb343b796005b0e1aaf68c2e63920c *LICENSE
 e871cb0aa382024e90f1e9697d9ea155 *NAMESPACE
-5a7334d12a9152ad7ef355ba17f9dea3 *NEWS.md
+db7bce70e5f7144f69055a5196965592 *NEWS.md
 f0c7ad2bbd0c1c3e9272447d45475713 *R/aeddo-package.R
 426141a78820f733a73d9029b0261ade *R/aeddo.R
 46aa3988a002c1119e4a90fbb692399d *R/autoplot.R
@@ -14,7 +14,7 @@ b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 fb30799c5394805ab71576790046438a *inst/doc/aeddo.R
 c0eb6e5cc636ce0c9b97b8968ffe8940 *inst/doc/aeddo.Rmd
 70bc42276aebaf073aee0f3b0dfee022 *inst/doc/aeddo.html
-59ca6f0cea7535f2a7448cd6cef48be5 *man/aeddo-package.Rd
+35814c4ac984a2e9198a7a20796801bc *man/aeddo-package.Rd
 e468464bb00caa016064732dba3f9e42 *man/aeddo.Rd
 b8a0801c9178482b78924cc66eb3c963 *man/autoplot.Rd
 848a5e188d288ca7f9b4defcc0bd78bd *man/check_aeddo_inputs.Rd
